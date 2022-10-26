@@ -5,8 +5,8 @@
   "author": "Ruslan Kazakov",
   "license": "MIT",
   "scripts": {
-    "start": "babel-node --presets es2015 lib/index.js",
-    "dev": "nodemon --exec babel-node --presets es2015 lib/index.js"
+    "start": "babel-node --presets es2015 lib/server.js",
+    "dev": "nodemon --exec babel-node --presets es2015 lib/server.js"
   },
   "repository": {
     "type": "git",
