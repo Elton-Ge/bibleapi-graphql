@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/rkazakov/bibleapi-graphql#readme",
   "dependencies": {
+    "babel-register": "^6.26.0",
     "bible-passage-reference-parser": "^2.0.1",
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
